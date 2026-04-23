@@ -210,7 +210,5 @@ data
 logs
 
 
-.dvc
-dvclive
-dvc.yaml
-.dvcignore
+# dvclive
+# .dvcignore
