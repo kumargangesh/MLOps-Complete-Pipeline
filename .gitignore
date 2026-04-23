@@ -208,3 +208,9 @@ __marimo__/
 
 data
 logs
+
+
+.dvc
+dvclive
+dvc.yaml
+.dvcignore
